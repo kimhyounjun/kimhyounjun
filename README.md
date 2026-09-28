@@ -71,8 +71,8 @@ Django·FastAPI 기반 백엔드 개발을 중심으로
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kimhyounjun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA3E0&icon_color=4FA3E0&text_color=C9D1D9" alt="GitHub 통계" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyounjun&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0D1117&title_color=4FA3E0&text_color=C9D1D9" alt="주요 언어" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimhyounjun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA3E0&icon_color=4FA3E0&text_color=C9D1D9" alt="GitHub 통계" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimhyounjun&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0D1117&title_color=4FA3E0&text_color=C9D1D9" alt="주요 언어" />
 </div>
 
 ---
