@@ -68,12 +68,14 @@ Django·FastAPI 기반 백엔드 개발을 중심으로
 
 ---
 
-### 📊 GitHub Statistics
+### 📌 GitHub Activity
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimhyounjun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA3E0&icon_color=4FA3E0&text_color=C9D1D9" alt="GitHub 통계" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimhyounjun&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0D1117&title_color=4FA3E0&text_color=C9D1D9" alt="주요 언어" />
-</div>
+통계 카드 대신 대표 프로젝트와 실제 구현 내용을 중심으로 정리했습니다. 자세한 활동 내역은 [GitHub 프로필](https://github.com/kimhyounjun)의 Contribution Graph와 고정 저장소에서 확인할 수 있습니다.
+
+<p>
+  <a href="https://github.com/kimhyounjun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-3-0F4C81?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/kimhyounjun?tab=overview"><img src="https://img.shields.io/badge/Profile-Overview-22313F?style=for-the-badge&logo=github&logoColor=white" alt="Profile Overview" /></a>
+</p>
 
 ---
 
